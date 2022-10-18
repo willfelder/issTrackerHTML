@@ -1,5 +1,5 @@
 ## ISS Tracker
-![ecommerce](https://user-images.githubusercontent.com/73253144/194750241-c685482d-43fe-43f2-907c-9b60cf5412a4.png)
+![iss-tracker](https://user-images.githubusercontent.com/73253144/196390924-5d3ee0e9-dfda-4878-9873-7abd6199c9a6.png)
 
 ## Features
 - HTML5
